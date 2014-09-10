@@ -1,8 +1,5 @@
 /*
 Gaurav Sheni
-CSC 221
-Project 1 - Evaulate Postfix 
-1/31/14
  */
 #include <iostream>
 #include "List.h"
