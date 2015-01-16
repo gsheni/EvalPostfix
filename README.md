@@ -10,7 +10,7 @@ The following conditions must be fulfilled
 - For *, you a backslash must be preceded.  
 -	The first command line argument is either a positive integer 
 
-Program will thrown and error in the following cases
+Program will thrown an error in the following cases
 - When there is no command line arguments.
 - There will be an error when there is an operator that is not one of the atomic ones listed above.
 
