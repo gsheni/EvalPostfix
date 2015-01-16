@@ -13,7 +13,7 @@ Program will thrown and error in the following cases
 - There will be an error when there is an operator that is not one of the atomic ones listed above.
 
 Example Input Expressions:
-
+```txt
 $ 2 3 + 
 
 $ 3 5 \* 
@@ -27,6 +27,6 @@ $ 7 3 - 2 \*
 $ 6 5 2 - 4 + \* =
 
 $	1 2 + 3 \* 4 + 5 \* 
-
+```
 The output of the program will be the answer of the computation.
 If there is an error in the input, the output will be a blank line.
