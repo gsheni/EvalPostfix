@@ -29,4 +29,5 @@ $ 6 5 2 - 4 + \* =
 $	1 2 + 3 \* 4 + 5 \* 
 ```
 The output of the program will be the answer of the computation.
+
 If there is an error in the input, the output will be a blank line.
