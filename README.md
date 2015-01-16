@@ -1,7 +1,9 @@
 EvalPostfix
 ==============
 
-This EvalPostfix program will read in command line arguments that correspond to a postfix expression. Each number and operator in the expression is expected to be space delimited.
+This EvalPostfix program will read in command line arguments that correspond to a postfix expression. 
+
+Each number and operator in the expression is expected to be space delimited.
 
 The following conditions must be fulfilled
 - The expression needs to have positive integers and atomico operators (+,-,*,/) as well as left and right parentheses.   
