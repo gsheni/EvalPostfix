@@ -31,5 +31,20 @@ $ 6 5 2 - 4 + \* =
 $	1 2 + 3 \* 4 + 5 \* 
 ```
 The output of the program will be the answer of the computation.
+```txt
+5
+
+15
+
+2
+
+12
+
+8
+
+42
+
+65
+```
 
 If there is an error in the input, the output will be a blank line.
